@@ -12,5 +12,6 @@ int main(void)
 {
 	cout << "hello,world!" << endl;
 	cout << "I love playing games!" << endl;
+	cout << "hello,wuhan" << endl;
 	return 0;
 }
