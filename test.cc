@@ -11,5 +11,6 @@ using std::endl;
 int main(void)
 {
 	cout << "hello,world!" << endl;
+	cout << "I love playing games!" << endl;
 	return 0;
 }
